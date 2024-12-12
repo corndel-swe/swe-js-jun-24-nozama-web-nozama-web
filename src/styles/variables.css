@@ -1,0 +1,40 @@
+:root {
+  --color-primary: #0070f3;
+
+  --gray-darkest: hsl(0, 0%, 10%);
+  --gray-darker: hsl(0, 0%, 20%);
+  --gray-dark: hsl(0, 0%, 30%);
+  --gray: hsl(0, 0%, 50%);
+  --gray-light: hsl(0, 0%, 70%);
+  --gray-lighter: hsl(0, 0%, 80%);
+  --gray-lightest: hsl(0, 0%, 90%);
+
+  --font-size-0: 0.8rem;
+  --font-size-1: 1rem;
+  --font-size-2: 1.2rem;
+  --font-size-3: 1.44rem;
+  --font-size-4: 1.728rem;
+  --font-size-5: 2.0736rem;
+  --font-size-6: 2.4883rem;
+  --font-size-7: 2.986rem;
+
+  --padding-1: 4px;
+  --padding-2: 8px;
+  --padding-3: 12px;
+  --padding-4: 16px;
+  --padding-5: 20px;
+
+  --margin-1: 4px;
+  --margin-2: 8px;
+  --margin-3: 12px;
+  --margin-4: 16px;
+  --margin-5: 20px;
+
+  --border-radius-1: 4px;
+  --border-radius-2: 8px;
+  --border-radius-3: 12px;
+
+  --shadow-1: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  --shadow-2: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  --shadow-3: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
